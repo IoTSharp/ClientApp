@@ -50,7 +50,7 @@
     "clipboard": "2.0.4",
     "codemirror": "5.52.2",
     "driver.js": "0.9.5",
-    "dropzone": "5.5.1",
+    "dropzone": "5.7.0",
     "echarts": "^4.2.1",
     "element-ui": "2.7.0",
     "file-saver": "2.0.1",
